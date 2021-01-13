@@ -3,7 +3,7 @@ laser rescattering excitation of atomic inner shell
 
 __HOW TO RUN THIS WHOLE PROCESS__
 
-!(campus_map2.jpeg)
+!(campus_map2.jpg)
 
 1. Select an element for this process
 

@@ -3,8 +3,6 @@ laser rescattering excitation of atomic inner shell
 
 __HOW TO RUN THIS WHOLE PROCESS__
 
-![Campus Map](campus_map2.jpg)
-
 1. Select an element for this process
 
 2. Using rksuite.cpp, rksuite.h, and IonProbLi.cpp (changes will have to be made for atomic parameters of the selected element), generate the ion populations for the

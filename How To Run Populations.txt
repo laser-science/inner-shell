@@ -1,0 +1,13 @@
+This folder is self-contained. It contains the main program, all its 
+header files and the date output after running the program exactly. 
+IonProbLi.cpp is the main program
+rksuite.h is the header file that calls the subroutines of rksuite.cpp
+IonProbLiOutput is the main output data from the program after it is
+imported into Origin.
+jobLi.qs is the batch file used to run the program in a cluster with
+a slurm scheduler
+
+To run on such a cluster:
+g++ -c rksuite.h
+g++ -o Li.out IonProbLi.cpp rksuite.o
+sbatch jobLi.qs

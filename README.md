@@ -20,3 +20,5 @@ previously. If running on the cluster, you will need jobPostProcess.qs. This cod
 
 6. With the binNorm file and the cross-section data for the element in question (NIST or other resources), the fluence can be calculated by multiplying the flux and the
 cross-section and integrating. Make sure that the cross section data for a given point is for the same energy as the fluence data point.
+
+#Instructions for how to run these codes in a command line unix system are included in this folder
